@@ -1,9 +1,9 @@
 # NFL-Betting
-Finding positive EV betting lines in the NFL season
+Finding positive EV betting lines in the NFL season <br>
 
-Game data sourced from https://www.pro-football-reference.com/
-Betting data sourced from http://www.aussportsbetting.com/historical_data/nfl.xlsx
-ELO data (unused in the project but sometimes interesting to look at) sourced from https://projects.fivethirtyeight.com/nfl-api/nfl_elo.csv
+Game data sourced from https://www.pro-football-reference.com/ <br>
+Betting data sourced from http://www.aussportsbetting.com/historical_data/nfl.xlsx <br>
+ELO data (unused in the project but sometimes interesting to look at) sourced from https://projects.fivethirtyeight.com/nfl-api/nfl_elo.csv <br>
 
 **Objective** <br>
 Create a long-term EV-positive betting strategy for the NFL <br>
