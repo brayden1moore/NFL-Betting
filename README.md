@@ -8,7 +8,7 @@ ELO data (unused in the project but sometimes interesting to look at) sourced fr
 **Objective**
 Create a long-term EV-positive betting strategy for the NFL
 
-**Method**
+**Method** <br>
 Identify how the difference in a GradientBoostingClassifier's win probability predictions and the win probability implied by the odds translates into real-life win probability. 
 Then using this real-life win probability and the potential payouts of the bets, calculate the expected value of betting on any given team in any given game. 
 Bet on a team when they have an expected value greater than 0.15 (in back-testing, a threshold of 0.15 seemed to give a good enough cushion to account for prediction error) and their expected value is greater than that of their opponent's (you cannot bet on both sides). 
